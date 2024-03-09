@@ -1,0 +1,29 @@
+Website/vendor/
+Website/node_modules/
+Website/npm-debug.log
+Website/yarn-error.log
+
+# Laravel 4 specific
+Website/bootstrap/compiled.php
+Website/app/storage/
+
+# Laravel 5 & Lumen specific
+Website/public/storage
+Website/public/hot
+
+# Laravel 5 & Lumen specific with changed public path
+Website/public_html/storage
+Website/public_html/hot
+
+Website/storage/*.key
+Website/.env
+Website/Homestead.yaml
+Website/Homestead.json
+Website/.vagrant
+Website/.phpunit.result.cache
+/Manager/target/
+/.idea/libraries/
+/Recommendation_Engine/sandbox/data/Reviews.csv
+/.idea/statistic.xml
+/Manager/src/main/resources/application.yml
+/Manager/src/main/java/org/thekiddos/manager/api/WebConfig.java
